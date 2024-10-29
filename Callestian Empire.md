@@ -1,0 +1,1 @@
+The Callestian Empire is the major political power of [[Callestia]] and the lands that surround it. Its capitol is [[Gladiolus]]. 
