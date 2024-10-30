@@ -1,1 +1,6 @@
-Shane's Hollow is a town in [[Dortesya]]. 
+---
+tags:
+  - village
+  - location
+---
+Shane's Hollow is a village in [[Dortesya]]. 
