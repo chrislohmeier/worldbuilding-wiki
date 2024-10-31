@@ -1,6 +1,6 @@
 ---
 tags:
-  - town
   - location
+  - town
 ---
 Ferontown is a town in the [[Shaded Highlands]]. 
