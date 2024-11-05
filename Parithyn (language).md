@@ -6,6 +6,8 @@ Parithyn is an ancient language that was the primary tongue of the [[Parithya|Pa
 
 Inspirations: Basque, Ancient Greek, Sanskrit
 
+See: https://www.vulture.com/article/game-of-thrones-names.html
+
 # Chat GPT output
 
 Create a fictional fantasy language that has the feel of Ancient Greek and Sanskrit. Tell me what the grammatical structure would look like and give me a list of potential words that would be useful for geography. Those words should not be directly taken from Sanskrit and/or Ancient Greek; rather, use a pool of common sounds and syllables to semi-randomly construct a new lexicon.
