@@ -43,26 +43,67 @@ Create a fictional fantasy language that has the feel of Ancient Greek and Sansk
 7. **Prepositions and Postpositions:**
     - Often used with the locative and ablative cases.
 
-### Useful Geography Vocabulary
+### Vocabulary
 
-1. **Land** – _daor_
-2. **Mountain** – _hyrros_
-3. **River** – _sikas_
-4. **Sea** – _marin
-5. **Island** – _eris_
-6. **Forest** – _tisyar_
-7. **Desert** – _syria_
-8. **Plain** – _vanya_
-9. **Valley** – _feron_
-10. **Cave** – _goras_
-11. **Hill** – _karin_
-12. **Lake** – _lira_
-13. **Cliff** – _nevia_
-14. **Coast** – _talin_
-15. **Riverbank** – _gilam_
-16. **Around -** _arva_
-17. **Empire** - _kalis_
-18. **Town** -
+| English     | Parithyn | Tag  | Notes                 |
+| ----------- | -------- | ---- | --------------------- |
+| Land        | _daor_   |      |                       |
+| Mountain    | _hyrros_ |      |                       |
+| River       | _sikas_  |      |                       |
+| Sea         | _marin_  |      |                       |
+| Island      | _eris_   |      |                       |
+| Forest      | _tisyar_ |      |                       |
+| Desert      | _syria_  |      |                       |
+| Plain       | _vanya_  |      |                       |
+| Valley      | _feron_  |      |                       |
+| Cave        | _goras_  |      |                       |
+| Hill        | _karin_  |      |                       |
+| Lake        | _lira_   |      |                       |
+| Cliff       | _nevia_  |      |                       |
+| Coast       | _talin_  |      |                       |
+| Riverbank   | _gilam_  |      |                       |
+| Around      | _arva_   |      |                       |
+| Empire      | _kalis_  |      |                       |
+| Town        | _viron_  |      |                       |
+| City        | _kalys_  |      |                       |
+| To travel   | _idinor_ | Verb |                       |
+| All-knowing | *gryth*  |      | No direct translation |
+| Superior    | *althen* |      |                       |
+
+
+### Phonology of Parithyn
+
+#### **Consonants:**
+
+Parithyn’s consonant inventory includes:
+
+- **Stops:** /p, b, t, d, k, g/
+- **Fricatives:** /f, v, θ, s, h/
+- **Nasals:** /m, n/
+- **Liquids:** /l, r/
+- **Glides:** /j, w/
+
+#### **Vowels:**
+
+Parithyn has a simple vowel inventory, including both short and long versions for emphasis:
+
+- **Front:** /i, e/
+- **Central:** /a/
+- **Back:** /o, u/
+
+#### **Diphthongs:**
+
+Diphthongs are used frequently, giving the language a flowing, melodic quality. Common diphthongs include:
+
+- /ai/, /ei/, /oi/, /au/, /eu/
+
+#### **Syllable Structure:**
+
+Parithyn prefers a (C)V or (C)VC structure for ease of pronunciation, with syllables often ending in vowels. Consonant clusters are usually avoided at the start of words, but they may appear medially or at the end.
+
+#### **Stress Pattern:**
+
+Stress tends to fall on the penultimate syllable, with exceptions in compound words where stress may shift to the prefix.
 
 ### Example Sentences:
 
@@ -79,11 +120,11 @@ Create a fictional fantasy language that has the feel of Ancient Greek and Sansk
     - Parithyn: _Eris a marin koryra est._
         - Breakdown: _Eris_ (island, nominative) _a_ (by, preposition) _marin_ (sea, ablative) _koryra_ (surrounded, past participle) _est_ (is, present tense verb)
 
-## Parithyn words
+## Parithyn place names
 
-|**Parithyn word**|**Translation**|**Common form**|
-|---|---|---|
-|Daortisya|Forest land|Dartesya|
-|Arvandaori|Around lands|Arvendor|
-|||Callestia|
-||||
+| **Parithyn word** | **Translation** | **Common form** |
+| ----------------- | --------------- | --------------- |
+| Daortisya         | Forest land     | [[Dortesya]]    |
+| Arvandaori        | Around lands    | [[Arvendor]]    |
+| Althenkalys       | Superior city   | Alankells       |
+|                   |                 |                 |
