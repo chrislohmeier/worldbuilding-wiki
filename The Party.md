@@ -5,12 +5,11 @@ tags:
 ## Summary
 
 The Party is a group of adventurers that are running a circus and travelling around. It is led by Popper.
-
 ## PCs
 - [[Murakh of the Steppe]]
 - [[Popper]]
 - [[Estrella Duskweaver]]
-- [[Twigby Bramblethorn]]
+- [[Twigly Bramblethorn]]
 - [[Quill Talkin]]
 
 ## NPCs

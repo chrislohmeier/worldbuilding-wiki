@@ -126,5 +126,5 @@ Stress tends to fall on the penultimate syllable, with exceptions in compound wo
 | ----------------- | --------------- | --------------- |
 | Daortisya         | Forest land     | [[Dortesya]]    |
 | Arvandaori        | Around lands    | [[Arvendor]]    |
-| Althenkalys       | Superior city   | Alankells       |
+| Althenkalys       | Superior city   | [[Alenkells]]   |
 |                   |                 |                 |

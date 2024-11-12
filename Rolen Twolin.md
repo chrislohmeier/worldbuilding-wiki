@@ -4,4 +4,5 @@ tags:
   - humanoid
 ---
 ## Summary
-Rolen Twolin is the son of the original [[Galilea Twolin]], before she was consumed by a monster. 
+
+Rolen Twolin is the son of the original [[Galilea Twolin]], before she was consumed by a [[Grython]].
