@@ -9,4 +9,4 @@ The Callestian Empire is the major political power of [[Callestia]] and the land
 
 ## Culture
 
-Denizens of the Empire have developed a highly commercialized, materialistic culture revolving around [[Aurite]]. 
+Denizens of the Empire have developed a highly commercialized, materialistic culture revolving around [[Aurite]].
