@@ -11,12 +11,11 @@ She currently lives in [[Ferontown]].
 
 ## Objective, Intention, Tactics
 
-Objective: Establish herself in Ferontown as a weaver and gossip-monger.
+Objective: Establish herself in Ferontown as a weaver and gossip-monger. Tweak things about the society to suit her needs.
 
 Intention: Seams cares deeply about her craft, and by virtue of her long life knows that the way a story is told is sometimes more important than the outcome.
 
 Tactics: Go out to get to know people in weird places.
-
 
 ## Personality
 - Wise
