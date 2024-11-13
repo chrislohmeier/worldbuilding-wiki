@@ -6,7 +6,7 @@ tags:
 ---
 ## Summary
 
-Twigly was born somewhere in the wooded north of the [[Callestia]]. After the death of his parents, he joined a circus. He eventually wound up in the city of [[Gladiolus]], where [[Popper]] convinced him to join [[The Party]].
+Twigly was born somewhere in the [[Wooded North]] of [[Callestia]]. After the death of his parents, he joined a circus. He eventually wound up in the city of [[Gladiolus]], where [[Popper]] convinced him to join [[The Party]].
 
 
 ## Player information

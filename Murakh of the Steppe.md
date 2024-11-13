@@ -6,6 +6,10 @@ tags:
 ---
 ## Summary
 
+Murakh is a Bugbear from [[Marindor]]. He joined [[The Party]] after his sheep were killed, figuring that joining the circus would be a good way to rebuild his flock.
+
+## Player Information
+
 |   |   |
 |---|---|
 |CLASS: Barbarian|AGE: 30|

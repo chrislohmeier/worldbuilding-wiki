@@ -2,6 +2,7 @@
 tags:
   - location
   - in-development
+  - region
 ---
 ## Summary
 
