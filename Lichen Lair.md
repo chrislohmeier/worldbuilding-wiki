@@ -2,7 +2,7 @@
 tags:
   - location
 ---
-The Lichen Lair is a manor that is above an abandoned [[Parithya|Parithyn]] castle in [[Dortesya]]. It originally served as a [[Bestiary|bestiary]] and a fortress for the Parithyn kingdom, but later fell into ruin after the Parithynoi (the Parithyn people) disappeared thousands of years ago. Several centuries ago, it was used by the local wood elves of Dortesya to defend their land against a [[Callestian Empire|Callestian]] invasion, and was destroyed even further in the process. 
+ The Lichen Lair is a manor that is above an abandoned [[Parithya|Parithyn]] castle in [[Dortesya]]. It originally served as a [[Bestiary|bestiary]] and a fortress for the Parithyn kingdom, but later fell into ruin after the Parithynoi (the Parithyn people) disappeared thousands of years ago. Several centuries ago, it was used by the local wood elves of Dortesya to defend their land against a [[Callestian Empire|Callestian]] invasion, and was destroyed even further in the process. 
 
 After it was sacked, the castle was taken over by the evil lich [[Blaithin]], who built a manor over the top of the ancient ruins. Still, underneath the manor is an evil [[Grython|Grythonic]] energy coming from the bestiary, which draws in those bitten by the snakes in the forest. 
 
@@ -23,10 +23,10 @@ The lich's seven hearts reside in the lair:
     
 7. Honor: Animated armor that wants players to repent/atone for bad things they’ve done. Players must make a DC 18 INT saving throw as they try to evade the probing psychic energy of the armor. If they fail, they are flooded with thoughts of the worst thing they've ever done, and to avoid taking 2d8 psychic damage and the armor becoming hostile, every player has 1 minute to take an action to repent for what they've done. Players can talk and lie if they pass a high DC Deception check.
 
-Each heart, when defeated, will turn into a tiny stone triangle, except for Jealousy, which drops the trinket that each rectangle goes into.
+Each heart, when defeated, will turn into a tiny stone triangle, except for Jealousy, which drops the trinket that each triangle goes into.
 
 ## Ancient Bestiary
-Below the manor lies remnants of a Bestiary, which once housed a [[Grython]].
+Below the manor lies remnants of a Bestiary, which once housed a [[Grython]]. The basement
 
 ### Loot
 

@@ -8,6 +8,8 @@ tags:
 
 Twigly was born somewhere in the [[Wooded North]] of [[Callestia]]. After the death of his parents, he joined a circus. He eventually wound up in the city of [[Gladiolus]], where [[Popper]] convinced him to join [[The Party]].
 
+Twigly is bound to give 200 gp to someone in need on his mother's memory.
+
 
 ## Player information
 

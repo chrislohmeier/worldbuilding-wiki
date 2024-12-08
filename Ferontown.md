@@ -19,9 +19,15 @@ Ferontown is ruled autocratically by [[Oleg Jjavalenghronthin]]. All Shade Dwarv
 
 The heart of Ferontown is built in the interior of the mountain, but suburbs have popped up on each side of the mountain ridge that the city is built onto. 
 ### Heart of the Mountain
+
+The Heart of the Mountain is the old sanctuary of the dwarves, where they would retreat into whenever the city was attacked. Underneath is the Aurite mine of Ferontown, the lair of an ancient [[Grython]]. 
 ### Brightside
 
+Brightside is the less exclusive district of Ferontown, and is open to outsiders.
+
 ### Darkside
+
+Darkside is the more exclusive, and more affluent, district of Ferontown. It is the preferred district of the Shade Dwarves, due to the ability to hide from the dragons.
 
 ## Inhabitants
 
@@ -35,3 +41,4 @@ Ferontown is mostly populated by Shade Dwarves, with a small population of gnome
 
 ## Locations
 - Aurite mines
+- [[Ferontown]]

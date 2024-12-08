@@ -7,7 +7,7 @@ tags:
 
 Seams is an ancient elf woman who spent much of her life in [[Gladiolus]], creating wonderous tapestries for the Imperial [[Callestian Empire|Callestian]] Court. Shortly before [[The Bloodlet]], she left the city in anticipation of the bloodshed that would follow. She was a good friend of Buisinesslord [[Popper]], taking a strong interest in him, although he couldn't say why.
 
-She currently lives in [[Ferontown]].
+She currently lives in [[Ferontown]]. Knowing how far [[Galilea Twolin|Galilea Twolin's]] reach extends, she avoids associating with [[Bad Bloods]].
 
 ## Objective, Intention, Tactics
 

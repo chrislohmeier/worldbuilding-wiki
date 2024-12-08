@@ -1,6 +1,7 @@
 ---
 tags:
   - monstrosity
+  - creature
 ---
 ## Summary
 A Grython was a terrible, alien creature that the [[Parithya|Parithynoi]] kept in their [[Bestiary|Bestiaries]], until they disappeared from [[Veril]]. They resembled Beholders (and sometimes took the form of Beholders) but were entirely distinct.

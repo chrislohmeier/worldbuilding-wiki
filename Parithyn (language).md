@@ -12,7 +12,7 @@ See: https://www.vulture.com/article/game-of-thrones-names.html
 
 Create a fictional fantasy language that has the feel of Ancient Greek and Sanskrit. Tell me what the grammatical structure would look like and give me a list of potential words that would be useful for geography. Those words should not be directly taken from Sanskrit and/or Ancient Greek; rather, use a pool of common sounds and syllables to semi-randomly construct a new lexicon.
 
-### Fictional Fantasy Language: Pari**thyn**
+### Fictional Fantasy Language: **Parithyn**
 
 **Grammatical Structure:**
 
@@ -45,30 +45,42 @@ Create a fictional fantasy language that has the feel of Ancient Greek and Sansk
 
 ### Vocabulary
 
-| English     | Parithyn | Tag  | Notes                 |
-| ----------- | -------- | ---- | --------------------- |
-| Land        | _daor_   |      |                       |
-| Mountain    | _hyrros_ |      |                       |
-| River       | _sikas_  |      |                       |
-| Sea         | _marin_  |      |                       |
-| Island      | _eris_   |      |                       |
-| Forest      | _tisyar_ |      |                       |
-| Desert      | _syria_  |      |                       |
-| Plain       | _vanya_  |      |                       |
-| Valley      | _feron_  |      |                       |
-| Cave        | _goras_  |      |                       |
-| Hill        | _karin_  |      |                       |
-| Lake        | _lira_   |      |                       |
-| Cliff       | _nevia_  |      |                       |
-| Coast       | _talin_  |      |                       |
-| Riverbank   | _gilam_  |      |                       |
-| Around      | _arva_   |      |                       |
-| Empire      | _kalis_  |      |                       |
-| Town        | _viron_  |      |                       |
-| City        | _kalys_  |      |                       |
-| To travel   | _idinor_ | Verb |                       |
-| All-knowing | *gryth*  |      | No direct translation |
-| Superior    | *althen* |      |                       |
+| English     | Parithyn  | Tag       | Notes                 |
+| ----------- | --------- | --------- | --------------------- |
+| Land        | _daor_    | Noun      |                       |
+| Mountain    | _hyrros_  | Noun      |                       |
+| River       | _sikas_   | Noun      |                       |
+| Ocean       | _marin_   | Noun      |                       |
+| Island      | _eris_    | Noun      |                       |
+| Forest      | _tisyar_  | Noun      |                       |
+| Desert      | _syria_   | Noun      |                       |
+| Plain       | _vanya_   | Noun      |                       |
+| Valley      | _feron_   | Noun      |                       |
+| Cave        | _goras_   | Noun      |                       |
+| Hill        | _karin_   | Noun      |                       |
+| Lake        | _lira_    | Noun      |                       |
+| Cliff       | _nevia_   | Noun      |                       |
+| Coast       | _talin_   | Noun      |                       |
+| Riverbank   | _gilam_   | Noun      |                       |
+| Around      | _arva_    | Adjective |                       |
+| Empire      | _kalis_   | Noun      |                       |
+| Town        | _viron_   | Noun      |                       |
+| City        | _kalys_   | Noun      |                       |
+| To travel   | _idinor_  | Verb      |                       |
+| All-knowing | *gryth*   | Adjective | No direct translation |
+| Superior    | *althen*  | Adjective |                       |
+| One         | *eka*     | Noun      |                       |
+| Two         | *diya*    | Noun      |                       |
+| Three       | *thraya*  | Noun      |                       |
+| Four        | *qara*    | Noun      |                       |
+| Five        | *pera*    | Noun      |                       |
+| Six         | *xela*    | Noun      |                       |
+| Zero        | *phaen*   | Noun      |                       |
+| Shape       | *aragone* | Noun      |                       |
+| Middle      | *dres*    | Adjective |                       |
+| Sea         | *mera*    | Noun      |                       |
+| Deep        | *vatys*   | Adjective |                       |
+
 
 
 ### Phonology of Parithyn
@@ -77,7 +89,7 @@ Create a fictional fantasy language that has the feel of Ancient Greek and Sansk
 
 Parithyn’s consonant inventory includes:
 
-- **Stops:** /p, b, t, d, k, g/
+- **Stops:** /p, b, t, d, k, g, q/
 - **Fricatives:** /f, v, θ, s, h/
 - **Nasals:** /m, n/
 - **Liquids:** /l, r/
@@ -127,4 +139,7 @@ Stress tends to fall on the penultimate syllable, with exceptions in compound wo
 | Daortisya         | Forest land     | [[Dortesya]]    |
 | Arvandaori        | Around lands    | [[Arvendor]]    |
 | Althenkalys       | Superior city   | [[Alenkells]]   |
-|                   |                 |                 |
+| Marindaor         | Land ocean      | [[Marindor]]    |
+| Tisyerisi         | Forest Islands  | [[Tisharisi]]   |
+| Dresmera          | Middle sea      | [[Draesmar]]    |
+| Vathysmera        | Deep sea        | [[Vathys]]      |

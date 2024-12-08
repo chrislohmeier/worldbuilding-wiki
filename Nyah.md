@@ -5,4 +5,4 @@ tags:
   - in-development
 ---
 ## Summary
-Nyah is a toothpick biting Gnome thief. A part-time resident of [[Ferontown]], Nyah has an affinity for his fellow gnomes.
+Nyah is a non-binary toothpick biting Gnome thief. A part-time resident of [[Ferontown]], Nyah has an affinity for their fellow gnomes.

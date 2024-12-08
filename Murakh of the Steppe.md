@@ -8,6 +8,8 @@ tags:
 
 Murakh is a Bugbear from [[Marindor]]. He joined [[The Party]] after his sheep were killed, figuring that joining the circus would be a good way to rebuild his flock.
 
+Murakh is bound by the life of Woody to protect more life than he takes.
+
 ## Player Information
 
 |   |   |
