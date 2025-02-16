@@ -12,7 +12,7 @@ The [[Callestia|Callestian]] calendar is one way to keep track of the 800-day ye
 | **Sunwake** (81-160), Mid Temp       | Sylph                    | Cunning, intuition, transformation     |           | Dry season     |                    |                      |               |
 | **Skyblaze** (161-240), Peak Light   | The Heroes               | Contradiction, destiny, inner conflict | Hot       | Dry season     |                    | Warm                 |               |
 | **Ashencrest** (241-320), Peak Heat  | Djinn                    | Rebellion, endurance, upheaval         | Hot       | Dry season     |                    | Warm                 | Tolerable     |
-| **Duskrun** (321-400),               | Spider                   | Instinct, vigilance, primal will       | Hot       | Mild           |                    | Warm                 |               |
+| **Duskrun** (321-400)                | Spider                   | Instinct, vigilance, primal will       | Hot       | Mild           |                    | Warm                 |               |
 | **Starveil** (401-480), Fall Equinox | Dragon                   | Authority, sacrifice, remembrance      |           | Mild           |                    |                      |               |
 | **Frostmourn** (481-560), Mid Temp   | Satyr                    | Wanderlust, unpredictability, trickery |           | Mild           |                    |                      |               |
 | **Shadowfall** (561-640), Peak Dark  | Raven                    | Calculation, foresight, discipline     |           | Mild           |                    |                      | Cold          |
