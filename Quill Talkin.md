@@ -16,4 +16,9 @@ Quill's skills in magic developed early on. His hunger for knowledge led him dow
 
 Though he follows the Antiflockist faith out of a sense of duty and tradition, Quill secretly resents it. His heart yearns to break free from its rigid codes and reconnect with his son. He keeps this inner turmoil hidden, presenting himself as a loyal Antiflockist while privately questioning whether his people's search for the truth is worth the price of isolation.
 
-Despite his emotional struggle, Quill is dedicated to his journey. He continues to wander, driven by the faint hope that discovering the truth about the Kenku curse will also help him resolve the conflict between his duty and his desires. Each relic he uncovers and each piece of history he collects,
+Despite his emotional struggle, Quill is dedicated to his journey. He continues to wander, driven by the faint hope that discovering the truth about the Kenku curse will also help him resolve the conflict between his duty and his desires. Each relic he uncovers and each piece of history he collects
+
+## Upbringing
+
+Raised by monks, who don't show faces for anonymity
+But one secretly showed face, sparking paternal instincts for [[Quill Talkin]]

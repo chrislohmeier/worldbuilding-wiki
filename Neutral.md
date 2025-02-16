@@ -2,6 +2,7 @@
 tags:
   - creature
   - character
+  - spoiler
 ---
 ## Summary
 

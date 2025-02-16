@@ -1,6 +1,7 @@
 ---
 tags:
   - event
+  - spoiler
 year: -100
 ---
 ## Summary

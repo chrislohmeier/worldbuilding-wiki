@@ -5,4 +5,4 @@ tags:
 ---
 ## Summary
 
-The Draesmar is in the center of [[Arvendor]].
+The Draesmar is an inland sea in the center of [[Arvendor]].

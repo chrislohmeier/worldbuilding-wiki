@@ -1,6 +1,7 @@
 ---
 tags:
   - society
+  - spoiler
 ---
 ## Summary
 

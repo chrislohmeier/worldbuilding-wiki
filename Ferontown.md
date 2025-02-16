@@ -2,6 +2,7 @@
 tags:
   - location
   - town
+  - spoiler
 ---
 ## Summary
 

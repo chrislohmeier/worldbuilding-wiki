@@ -2,6 +2,7 @@
 tags:
   - society
   - in-development
+  - spoiler
 ---
 ## Summary
 

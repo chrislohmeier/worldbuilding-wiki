@@ -2,6 +2,7 @@
 tags:
   - character
   - in-development
+  - spoiler
 ---
 ## Summary
 

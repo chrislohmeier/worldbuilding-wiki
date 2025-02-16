@@ -3,6 +3,7 @@ tags:
   - character
   - in-development
   - humanoid
+  - spoiler
 ---
 ## Summary
 

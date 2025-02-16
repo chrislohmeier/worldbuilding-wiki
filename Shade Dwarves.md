@@ -1,6 +1,7 @@
 ---
 tags:
   - people
+  - spoiler
 ---
 ## Summary
 
