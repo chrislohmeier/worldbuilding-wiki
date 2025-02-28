@@ -22,3 +22,7 @@ Despite his emotional struggle, Quill is dedicated to his journey. He continues 
 
 Raised by monks, who don't show faces for anonymity
 But one secretly showed face, sparking paternal instincts for [[Quill Talkin]]
+
+Fun Facts:
+- Collects feathers
+- Really wants to fly, feels jealous and wants to get shot out of the cannon

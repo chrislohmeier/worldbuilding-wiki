@@ -265,3 +265,5 @@ Murakh is bound by the life of Woody to protect more life than he takes.
 ## FACTS
 
 - murakh carries around a small, carved wooden sheep as a memento of his lost herd. he talks to it sometimes as if it’s part of the flock, seeking guidance from the little figure whenever he feels particularly lost or unsure of where to go next
+- Has crude wooden sheep to comfort himself
+- Is going to make everyone a birthdya gift

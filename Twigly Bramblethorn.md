@@ -19,3 +19,7 @@ mysteriously, leaving behind only a finely crafted, enchanted dagger as a partin
 As he grew older, Twigly developed a knack for sneaking into places unnoticed, always using his skills to get by but never with malice. His kindhearted nature led him to use his abilities to protect animals, play pranks on poachers, and help those lost in the woods. However, he always carried a streak of mischief, finding joy in outwitting those who sought to do wrong.
 
 One fateful day, while wandering near the edge of the forest, Twigly stumbled upon a traveling circus. Intrigued by the colorful tents and the lively performers, he was quickly enchanted by the whimsical world of circus life. His dexterous talents caught the attention of the ringmaster, who offered him a spot among the performers. Twigly found that his nimbleness, quick hands, and cunning made him a perfect fit as an acrobat, escape artist, and thief-act. Joining the circus gave him a place to belong, while also allowing him to indulge in his playful side by performing daring stunts and pranks.
+
+Fun facts:
+- Lots of experience with small wood (woodworking)
+- Spins wooden tops

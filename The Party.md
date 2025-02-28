@@ -16,6 +16,8 @@ The Party is a group of adventurers that are running a circus and travelling aro
 - [[Raven]]
 - [[Captain Grimmerby]]
 - [[Gene Vardiss]]
+- Tiefling
+- Goblin party
 
 ## Inventory
 - Cannon

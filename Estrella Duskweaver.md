@@ -20,4 +20,6 @@ From texts: She’s a manic cleric/priestess for a celestial god and believe tha
 
 Estrella wanted to escape Veil for many years, and finally got her chance by stowing away on a ship bound for Stonecrop. She was left a fund to provide for the "healing" that [[Veil]] provides, but she doesn't know who left it....
 
+Fun Facts:
+- Starting to think she's allergic to feather
 
